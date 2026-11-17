@@ -1,0 +1,6 @@
+# Copied from the original codal_yearly/requirements.txt for convenience.
+pandas>=2.2
+requests>=2.32
+lxml>=5.0
+openpyxl>=3.1
+xlrd>=2.0

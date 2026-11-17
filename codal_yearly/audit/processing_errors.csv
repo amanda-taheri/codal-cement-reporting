@@ -1,0 +1,9 @@
+﻿company,symbol,period,stage,title,error_type,error
+تولیدی سیمان فیروزکوه,سفیروزکوه,1404/03/31,parse_income_statement,اطلاعات و صورت های مالی میاندوره ای دوره 6 ماهه منتهی به 1404/03/31 (حسابرسی شده),RuntimeError,No table found for income_statement
+تولیدی سیمان فیروزکوه,سفیروزکوه,1404/03/31,parse_financial_position,اطلاعات و صورت های مالی میاندوره ای دوره 6 ماهه منتهی به 1404/03/31 (حسابرسی شده),RuntimeError,No table found for financial_position
+تولیدی سیمان فیروزکوه,سفیروزکوه,1404/09/30,parse_income_statement,صورت های مالی سال مالی منتهی به 1404/09/30 (حسابرسی شده),RuntimeError,No table found for income_statement
+تولیدی سیمان فیروزکوه,سفیروزکوه,1404/09/30,parse_financial_position,صورت های مالی سال مالی منتهی به 1404/09/30 (حسابرسی شده),RuntimeError,No table found for financial_position
+سیمان خاش,سخاش,1404/12/29,parse_income_statement,صورت های مالی سال مالی منتهی به 1404/12/29 (حسابرسی شده),RuntimeError,No table found for income_statement
+سیمان خاش,سخاش,1404/12/29,parse_financial_position,صورت های مالی سال مالی منتهی به 1404/12/29 (حسابرسی شده),RuntimeError,No table found for financial_position
+سیمان مجد خواف,سخواف,1404/06/31,parse_income_statement,اطلاعات و صورت های مالی میاندوره ای دوره 6 ماهه منتهی به 1404/06/31 (حسابرسی شده),RuntimeError,No table found for income_statement
+سیمان مجد خواف,سخواف,1404/06/31,parse_financial_position,اطلاعات و صورت های مالی میاندوره ای دوره 6 ماهه منتهی به 1404/06/31 (حسابرسی شده),RuntimeError,No table found for financial_position

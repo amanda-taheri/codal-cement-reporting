@@ -1,0 +1,34 @@
+# Python environments and artifacts
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# macOS / IDE metadata
+.DS_Store
+._*
+__MACOSX/
+.vscode/
+.idea/
+
+# Temporary Excel lock files (not real workbooks)
+~$*
+
+# Runtime logs / secrets
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Regenerable CODAL download/search caches (original ZIP still includes them)
+Codal_Cache/
+Codal_Cache_Latest/
+Codal_Search_Cache/
+cache/
+Debug/
+
+# Deliberately retain original reports, XLSX templates, output and audit files.

@@ -1,0 +1,8 @@
+# Maintain predictable text files and treat original spreadsheets as binary
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.xlsx binary
+*.xls binary
